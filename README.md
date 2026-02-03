@@ -67,16 +67,23 @@ Passionate about building modern web applications, exploring cloud technologies,
 
 ---
 
-## ✍️ Random Dev Quote
+## 🏆 GitHub Achievements
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://github-profile-trophy.vercel.app/?username=adhirajkorde&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🔝 Top Contributions
+## 📈 Contribution Activity
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=adhirajkorde&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adhirajkorde&theme=github-dark" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
