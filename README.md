@@ -13,7 +13,6 @@ Passionate about building modern web applications, exploring cloud technologies,
 - 👯 Looking to collaborate on **Beginner-friendly Web Development, Open Source & Cloud Computing projects**
 - 🤝 Seeking help with **Advanced JavaScript, Backend Development & Real-world Cloud Deployments**
 - 🌱 Currently learning **Data Science, Python, Machine Learning basics & Cloud Platforms**
-- 💬 Ask me about **Web Development basics, GitHub, Cloud fundamentals, or starting CS journey**
 - ⚡ Fun fact: I’m learning **Coding & Chess ♟️** together — both sharpen problem-solving skills
 
 ---
