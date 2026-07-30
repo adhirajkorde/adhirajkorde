@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Adhiraj Vijay Korde</h1>
-<h3 align="center">Computer Science Undergraduate | Web Development • Cloud • Data Science</h3>
+<h3 align="center">Computer Science Graduate | MERN Stack • Web Development • AI • Cloud Computing</h3>
 
 <p align="center">
-Passionate about building modern web applications, exploring cloud technologies, and solving problems using data-driven approaches.
+Passionate about crafting full-stack web applications, leveraging AI to build smart solutions, and deploying scalable apps on the cloud.
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 🔭 Currently working on **Web Projects using HTML, CSS, JavaScript** and exploring **Cloud-based applications**
-- 👯 Looking to collaborate on **Beginner-friendly Web Development, Open Source & Cloud Computing projects**
-- 🤝 Seeking help with **Advanced JavaScript, Backend Development & Real-world Cloud Deployments**
-- 🌱 Currently learning **Data Science, Python, Machine Learning basics & Cloud Platforms**
-- ⚡ Fun fact: I’m learning **Coding & Chess ♟️** together — both sharpen problem-solving skills
+- 🚀 Building **full-stack applications** using the **MERN Stack** (MongoDB, Express, React, Node.js)
+- 💡 Exploring **Artificial Intelligence** & integrating AI-powered features into real-world projects
+- ☁️ Hands-on experience with **Google Cloud Platform, AWS, Vercel & Render** for cloud deployments
+- 🔧 Skilled in crafting **REST APIs**, designing databases, and writing clean, scalable code
+- 🌱 Currently diving deeper into **Next.js, LangGraph & Cloud Architecture**
+- 🤝 Open to collaborating on **Open Source, Web Dev & AI-driven projects**
+- ⚡ Fun fact: I sharpen my problem-solving skills with **Coding & Chess ♟️**
 
 ---
 
