@@ -106,5 +106,5 @@ Passionate about building modern web applications, exploring cloud technologies,
 ---
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=adhirajkorde&icon=9&color=5" />
+<img src="https://komarev.com/ghpvc/?username=adhirajkorde&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
